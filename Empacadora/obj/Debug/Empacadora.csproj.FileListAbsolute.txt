@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Empacadora\Empacadora\bin\Debug\Empacadora.exe.config
+C:\Users\user\source\repos\Empacadora\Empacadora\bin\Debug\Empacadora.exe
+C:\Users\user\source\repos\Empacadora\Empacadora\bin\Debug\Empacadora.pdb
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.FrmEmpacadora.resources
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.Properties.Resources.resources
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.exe
+C:\Users\user\source\repos\Empacadora\Empacadora\obj\Debug\Empacadora.pdb
